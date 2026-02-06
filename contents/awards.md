@@ -1,5 +1,5 @@
 
-- The Best Practitioner Paper Award
+- <strong>The Best Practitioner Paper Award</strong>
 
 Issued by The 25th International Conference on Theory and Practice of Digital Libraries, TPDL'21 · Sep 2021
 
@@ -9,23 +9,24 @@ Associated with Leibniz Universität Hannover
 I appreciate Sören Auer and Markus Stocker for their guidance and supervision.
 
 
-- Best Lecturer
+- <strong>Best Lecturer</strong>
 
 Associated with Shahinshahr Azad University
 
 
-- Best Lecturer
+- <strong>Best Lecturer</strong>
 
 Associated with Bonian Higher Education Institute
 
 
-- Best Paper award in International Conference on Security-Enriched Urban Computing and Smart Grid, SUComS 2010, Korea
+- <strong>The Best Paper award</strong>
+Issued by The International Conference on Security-Enriched Urban Computing and Smart Grid, SUComS 2010, Korea
 
 
-- First Rank Among The Graduates of Master’s Degree in Computer Engineering
+- <strong>First Rank Among The Graduates of Master’s Degree in Computer Engineering</strong>
 
 Associated with Najafabad Azad University
 
 
-- Top 10 Rank in the Master's Global Entrance Exam
+- <strong>Top 10 Rank in the Master's Global Entrance Exam</strong>
 
