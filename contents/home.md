@@ -11,9 +11,9 @@ Previously, I was a researcher at the L3S Research Center, working on projects a
 My technical skills include Python and knowledge graph technologies, and I am pursuing a hybrid career path bridging academic research and industry R&D.
 #### Contact
 
-Email: golsa.heidary@gmail.com
-LinkedIn: https://www.linkedin.com/in/golsa-heidari/
-GitHub: https://github.com/GolsaHeidari
+<p>Email: golsa.heidary@gmail.com</p>
+<p>LinkedIn: https://www.linkedin.com/in/golsa-heidari/</p>
+<p>GitHub: https://github.com/GolsaHeidari</p>
 
 #### Educations
 <p> M.S. Computer Engineering, Najafabad University </p>
