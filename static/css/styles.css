@@ -10911,16 +10911,5 @@ footer a:hover, footer a:active, footer a:focus {
 
 
 
-.justified {
-    text-align: justify;          /* justify text */
-    text-justify: inter-word;     /* spread words evenly */
-    text-align-last: left;        /* last line flush left */
-    line-height: 1.6;             /* comfortable spacing */
-    hyphens: auto;                /* breaks long words to avoid gaps */
-    font-family: "Merriweather", "Times New Roman", serif; /* optional academic font */
-    font-size: 1.05rem;
-}
-
-
 
 
