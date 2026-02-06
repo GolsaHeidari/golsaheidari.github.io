@@ -1,13 +1,31 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- The Best Practitioner Paper Award
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+Issued by The 25th International Conference on Theory and Practice of Digital Libraries, TPDL'21 · Sep 2021
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
 
-- Outstanding Undergraduate Thesis Award (Jiangsu Provincial Dept. of Education, China), 2022.
+Associated with Leibniz Universität Hannover
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
+I appreciate Sören Auer and Markus Stocker for their guidance and supervision.
 
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+
+- Best Lecturer
+
+Associated with Shahinshahr Azad University
+
+
+- Best Lecturer
+
+Associated with Bonian Higher Education Institute
+
+
+- Best Paper award in International Conference on Security-Enriched Urban Computing and Smart Grid, SUComS 2010, Korea
+
+
+- First Rank Among The Graduates of Master’s Degree in Computer Engineering
+
+Associated with Najafabad Azad University
+
+
+- Top 10 Rank in the Master's Global Entrance Exam
 
