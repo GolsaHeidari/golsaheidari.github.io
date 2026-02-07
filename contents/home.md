@@ -28,10 +28,6 @@ My technical skills include Python and knowledge graph technologies, and I am pu
 </p>
 
 
-<p>LinkedIn: <a href="https://www.linkedin.com/in/golsa-heidari/" target="_blank">golsa-heidari</a></p>
-<p>GitHub: <a href="https://github.com/GolsaHeidari" target="_blank">GolsaHeidari</a></p>
-
-
 #### Educations
 <p> M.S. Computer Engineering, Najafabad University </p>
 <p> </p>B.S. Computer Engineering, Isfahan University </p>
