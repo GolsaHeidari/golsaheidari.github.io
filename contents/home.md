@@ -16,6 +16,7 @@ My technical skills include Python and knowledge graph technologies, and I am pu
 
 
 #### Contact
+<!-- Contact Icons -->
 <p>
   <!-- Email -->
   <a href="mailto:golsa.heidari@gmail.com" target="_blank" style="margin-right: 10px; color: inherit; text-decoration: none;">
@@ -43,6 +44,17 @@ My technical skills include Python and knowledge graph technologies, and I am pu
   </a>
 </p>
 
+<!-- Hover Effect CSS -->
+<style>
+  a i {
+    transition: color 0.3s; /* smooth color change */
+  }
+
+  /* Example: same hover color for all icons */
+  a:hover i {
+    color: #0073b1; /* LinkedIn blue, change to any color you like */
+  }
+</style>
 
 
 #### Educations
