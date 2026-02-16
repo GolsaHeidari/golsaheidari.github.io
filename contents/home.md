@@ -24,7 +24,7 @@ My technical skills include Python and knowledge graph technologies, and I am pu
     golsa [dot] heidary [at] gmail[dot] com
   </a>
 </p>
-<div style="display:flex; align-items:center; gap:15px;">
+<!-- <div style="display:flex; align-items:center; gap:15px;">
  
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/golsa-heidari/" target="_blank" class="contact-icon">
@@ -51,7 +51,7 @@ My technical skills include Python and knowledge graph technologies, and I am pu
      class="contact-icon" style="font-weight:bold; font-size:24px; font-family:sans-serif; color: inherit; text-decoration:none;">
       TIB
   </a>
-</div>
+</div> -->
 
 <!-- Hover Effect CSS -->
 <style>
