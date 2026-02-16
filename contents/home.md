@@ -44,6 +44,11 @@ My technical skills include Python and knowledge graph technologies, and I am pu
   <a href="https://www.researchgate.net/profile/Golsa-Heidari/research" target="_blank" style="margin-right: 10px; color: inherit; text-decoration: none;">
     <i class="fa-brands fa-researchgate" style="font-size: 24px;"></i>
   </a>
+
+  <!-- TIB profile -->
+            <a href="https://www.tib.eu/en/research-development/research-groups-and-labs/knowledge-infrastructures/staff/golsa-heidari" target="_blank" class="contact-icon">
+                <i class="fas fa-building"></i>
+            </a>
 </p>
 
 <!-- Hover Effect CSS -->
