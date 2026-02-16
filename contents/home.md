@@ -28,6 +28,13 @@ My technical skills include Python and knowledge graph technologies, and I am pu
 </p>
 
 <p>
+  <i class="fa-solid fa-graduation-cap" style="margin-right:5px;"></i>
+  <a href="https://scholar.google.com/citations?user=jHLYnmQAAAAJ&hl=en" target="_blank">
+    Golsa Heidari
+  </a>
+</p>
+
+<p>
   <i class="fa-brands fa-researchgate" style="margin-right:5px;"></i>
   <a href="https://www.researchgate.net/profile/Golsa-Heidari/research" target="_blank">
     Golsa Heidari
