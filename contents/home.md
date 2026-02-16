@@ -21,8 +21,10 @@ My technical skills include Python and knowledge graph technologies, and I am pu
   <!-- Email -->
   <a href="mailto:golsa.heidari@gmail.com" target="_blank" style="margin-right: 10px; color: inherit; text-decoration: none;">
     <i class="fas fa-envelope" style="font-size: 24px;"></i>
+    golsa [dot] heidary [at] gmail[dot] com
   </a>
-
+</p>
+<p>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/golsa-heidari/" target="_blank" style="margin-right: 10px; color: inherit; text-decoration: none;">
     <i class="fab fa-linkedin" style="font-size: 24px;"></i>
