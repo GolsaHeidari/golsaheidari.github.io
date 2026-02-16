@@ -17,35 +17,32 @@ My technical skills include Python and knowledge graph technologies, and I am pu
 
 #### Contact
 <p>
-  <a href="mailto:golsa.heidari@gmail.com" style="text-decoration: none; color: inherit;">
-    <i class="fas fa-envelope" style="margin-right: 5px;"></i>
-    Email: golsa [dot] heidari [at] gmail [dot] com
+  <!-- Email -->
+  <a href="mailto:golsa.heidari@gmail.com" target="_blank" style="margin-right: 10px; color: inherit; text-decoration: none;">
+    <i class="fas fa-envelope" style="font-size: 24px;"></i>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/golsa-heidari/" target="_blank" style="margin-right: 10px; color: inherit; text-decoration: none;">
+    <i class="fab fa-linkedin" style="font-size: 24px;"></i>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/GolsaHeidari" target="_blank" style="margin-right: 10px; color: inherit; text-decoration: none;">
+    <i class="fab fa-github" style="font-size: 24px;"></i>
+  </a>
+
+  <!-- Google Scholar -->
+  <a href="https://scholar.google.com/citations?user=jHLYnmQAAAAJ&hl=en" target="_blank" style="margin-right: 10px; color: inherit; text-decoration: none;">
+    <i class="fa-solid fa-graduation-cap" style="font-size: 24px;"></i>
+  </a>
+
+  <!-- ResearchGate -->
+  <a href="https://www.researchgate.net/profile/Golsa-Heidari/research" target="_blank" style="margin-right: 10px; color: inherit; text-decoration: none;">
+    <i class="fa-brands fa-researchgate" style="font-size: 24px;"></i>
   </a>
 </p>
 
-<p>
-  <i class="fab fa-linkedin" style="margin-right: 5px;"></i>
-  <a href="https://www.linkedin.com/in/golsa-heidari/" target="_blank">golsa-heidari</a>
-</p>
-
-<p>
-  <i class="fab fa-github" style="margin-right: 5px;"></i>
-  <a href="https://github.com/GolsaHeidari" target="_blank">GolsaHeidari</a>
-</p>
-
-<p>
-  <i class="fa-solid fa-graduation-cap" style="margin-right:5px;"></i>
-  <a href="https://scholar.google.com/citations?user=jHLYnmQAAAAJ&hl=en" target="_blank">
-    Golsa Heidari
-  </a>
-</p>
-
-<p>
-  <i class="fa-brands fa-researchgate" style="margin-right:5px;"></i>
-  <a href="https://www.researchgate.net/profile/Golsa-Heidari/research" target="_blank">
-    Golsa Heidari
-  </a>
-</p>
 
 
 #### Educations
