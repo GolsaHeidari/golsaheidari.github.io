@@ -27,6 +27,13 @@ My technical skills include Python and knowledge graph technologies, and I am pu
   <a href="https://github.com/GolsaHeidari" target="_blank">GolsaHeidari</a>
 </p>
 
+<p>
+  <i class="fa-brands fa-researchgate" style="margin-right:5px;"></i>
+  <a href="https://www.researchgate.net/profile/Golsa-Heidari/research" target="_blank">
+    Golsa Heidari
+  </a>
+</p>
+
 
 #### Educations
 <p> M.S. Computer Engineering, Najafabad University </p>
