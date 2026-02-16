@@ -15,6 +15,14 @@ My technical skills include Python and knowledge graph technologies, and I am pu
 </div>
 
 
+#### Educations
+<p> M.S. Computer Engineering, Najafabad University </p>
+<p> </p>B.S. Computer Engineering, Isfahan University </p>
+
+
+#### Research Interests
+Knowledge Graphs; Semantic Technologies; Information Retrieval
+
 #### Contact
 <!-- Contact Icons -->
 <p>
@@ -24,24 +32,3 @@ My technical skills include Python and knowledge graph technologies, and I am pu
     golsa [dot] heidary [at] gmail[dot] com
   </a>
 </p>
-
-<!-- Hover Effect CSS -->
-<style>
-  a i {
-    transition: color 0.3s; /* smooth color change */
-  }
-
-  /* Example: same hover color for all icons */
-  a:hover i {
-    color: #0073b1; /* LinkedIn blue, change to any color you like */
-  }
-</style>
-
-
-#### Educations
-<p> M.S. Computer Engineering, Najafabad University </p>
-<p> </p>B.S. Computer Engineering, Isfahan University </p>
-
-
-#### Research Interests
-Knowledge Graphs; Semantic Technologies; Information Retrieval
