@@ -45,9 +45,9 @@ My technical skills include Python and knowledge graph technologies, and I am pu
     <i class="fa-brands fa-researchgate" style="font-size: 24px;"></i>
   </a>
 
-  <!-- TIB profile -->
-          <a href="https://www.tib.eu/en/research-development/research-groups-and-labs/knowledge-infrastructures/staff/golsa-heidari" 
-   target="_blank" class="contact-icon" style="font-weight:bold; font-size:25px; font-family:sans-serif;">
+ <!-- TIB profile as text -->
+<a href="https://www.tib.eu/en/research-development/research-groups-and-labs/knowledge-infrastructures/staff/golsa-heidari" 
+   class="contact-icon" style="font-weight:bold; font-size:25px; font-family:sans-serif; color:#003366; text-decoration:none;">
     TIB
 </a>
 </p>
