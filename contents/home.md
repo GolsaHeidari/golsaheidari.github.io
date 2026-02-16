@@ -24,34 +24,34 @@ My technical skills include Python and knowledge graph technologies, and I am pu
     golsa [dot] heidary [at] gmail[dot] com
   </a>
 </p>
-<p>
+<div style="display:flex; align-items:center; gap:15px;">
+ 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/golsa-heidari/" target="_blank" style="margin-right: 10px; color: inherit; text-decoration: none;">
-    <i class="fab fa-linkedin" style="font-size: 24px;"></i>
+  <a href="https://www.linkedin.com/in/golsa-heidari/" target="_blank" class="contact-icon">
+    <i class="fab fa-linkedin" style="font-size:24px;"></i>
   </a>
 
   <!-- GitHub -->
-  <a href="https://github.com/GolsaHeidari" target="_blank" style="margin-right: 10px; color: inherit; text-decoration: none;">
-    <i class="fab fa-github" style="font-size: 24px;"></i>
+  <a href="https://github.com/GolsaHeidari" target="_blank" class="contact-icon">
+    <i class="fab fa-github" style="font-size:24px;"></i>
   </a>
 
   <!-- Google Scholar -->
-  <a href="https://scholar.google.com/citations?user=jHLYnmQAAAAJ&hl=en" target="_blank" style="margin-right: 10px; color: inherit; text-decoration: none;">
-    <i class="fa-solid fa-graduation-cap" style="font-size: 24px;"></i>
+  <a href="https://scholar.google.com/citations?user=jHLYnmQAAAAJ&hl=en" target="_blank" class="contact-icon">
+    <i class="fa-solid fa-graduation-cap" style="font-size:24px;"></i>
   </a>
 
   <!-- ResearchGate -->
-  <a href="https://www.researchgate.net/profile/Golsa-Heidari/research" target="_blank" style="margin-right: 10px; color: inherit; text-decoration: none;">
-    <i class="fa-brands fa-researchgate" style="font-size: 24px;"></i>
+  <a href="https://www.researchgate.net/profile/Golsa-Heidari/research" target="_blank" class="contact-icon">
+    <i class="fa-brands fa-researchgate" style="font-size:24px;"></i>
   </a>
 
- <!-- TIB profile as text -->
-<a href="https://www.tib.eu/en/research-development/research-groups-and-labs/knowledge-infrastructures/staff/golsa-heidari" 
-   class="contact-icon" style="font-weight:bold; font-size:24px; font-family:sans-serif; color: inherit; text-decoration:none;">
-    TIB
-</a>
-
-</p>
+  <!-- TIB text -->
+  <a href="https://www.tib.eu/en/research-development/research-groups-and-labs/knowledge-infrastructures/staff/golsa-heidari" 
+     class="contact-icon" style="font-weight:bold; font-size:24px; font-family:sans-serif; color: inherit; text-decoration:none;">
+      TIB
+  </a>
+</div>
 
 <!-- Hover Effect CSS -->
 <style>
