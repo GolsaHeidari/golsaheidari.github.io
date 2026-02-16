@@ -50,6 +50,7 @@ My technical skills include Python and knowledge graph technologies, and I am pu
    class="contact-icon" style="font-weight:bold; font-size:25px; font-family:sans-serif; color:#003366; text-decoration:none;">
     TIB
 </a>
+
 </p>
 
 <!-- Hover Effect CSS -->
