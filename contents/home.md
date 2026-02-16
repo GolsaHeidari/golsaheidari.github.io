@@ -46,9 +46,9 @@ My technical skills include Python and knowledge graph technologies, and I am pu
   </a>
 
   <!-- TIB profile -->
-            <a href="https://www.tib.eu/en/research-development/research-groups-and-labs/knowledge-infrastructures/staff/golsa-heidari" target="_blank" class="contact-icon">
-                <i class="fas fa-building"></i>
-            </a>
+           <a href="https://www.tib.eu/en/research-development/research-groups-and-labs/knowledge-infrastructures/staff/golsa-heidari" target="_blank" class="contact-icon" style="font-weight:bold; font-size:25px; font-family:sans-serif;">
+    TIB
+</a>
 </p>
 
 <!-- Hover Effect CSS -->
