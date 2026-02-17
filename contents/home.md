@@ -8,7 +8,7 @@ Researcher at TIB – Leibniz Information Centre for Science and Technology and 
 
 I collaborate with the Lab Knowledge Infrastructures and contribute to the ORKG (Open Research Knowledge Graph) project, applying semantic methods to support research discovery and interoperability across digital platforms.
 
-Previously, I was a researcher at the L3S Research Center, working on projects at the intersection of the semantic web and information retrieval. I have twice received the Best Paper Award, highlighting my commitment to impactful research. ...
+Previously, I was a researcher at the L3S Research Center, working on projects at the intersection of the semantic web and information retrieval. I have twice received the Best Paper Award, highlighting my commitment to impactful research.
 
 My technical skills include Python and knowledge graph technologies, and I am pursuing a hybrid career path bridging academic research and industry R&D.
 
