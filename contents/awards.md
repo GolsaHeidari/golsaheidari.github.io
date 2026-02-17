@@ -1,7 +1,7 @@
 
 - <strong>The Best Practitioner Paper Award</strong>
 
-Issued by The 25th International Conference on Theory and Practice of Digital Libraries, TPDL'21 · Sep 2021
+Issued by The 25th International Conference on Theory and Practice of Digital Libraries, TPDL'21 · Sep 2021, [View Certificate](images/best_paper_award.pdf)
 
 
 Associated with Leibniz Universität Hannover
