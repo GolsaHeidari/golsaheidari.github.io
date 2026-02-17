@@ -1,12 +1,20 @@
 
 - <strong>The Best Practitioner Paper Award</strong>
 
-Issued by The 25th International Conference on Theory and Practice of Digital Libraries, TPDL'21 · Sep 2021, [View Certificate](images/best_paper_award.pdf)
+Issued by The 25th International Conference on Theory and Practice of Digital Libraries, TPDL'21 · Sep 2021
 
-
-Associated with Leibniz Universität Hannover
+Associated with Leibniz Universität Hannover. 
+<a href="images/best_paper_award.pdf" target="_blank">
+    📄 View Certificate
+  </a>
 
 I appreciate Sören Auer and Markus Stocker for their guidance and supervision.
+
+
+<p>
+  
+</p>
+
 
 
 - <strong>Best Lecturer</strong>
