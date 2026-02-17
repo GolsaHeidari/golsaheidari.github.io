@@ -2,7 +2,7 @@
 
 <!-- [![GolsaHeidari](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/GolsaHeidari) -->
 
-<div class="container mt-5" style="max-width: 800px;">
+<div class="container mt-5" style="max-width: 800px; text-align: justify;">
 
 Researcher at TIB – Leibniz Information Centre for Science and Technology and PhD Candidate at Leibniz University Hannover. I focus on information retrieval, semantic technologies, and knowledge graphs, building intelligent systems that make scientific knowledge more accessible and connected.
 
