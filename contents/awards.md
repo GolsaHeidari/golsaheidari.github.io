@@ -19,7 +19,7 @@
   Bonian Higher Education Institute
 
 
-- <strong>Best Paper award</strong>
+- <strong>Best Paper Award</strong>
 
   Issued by The International Conference on Security-Enriched Urban Computing and Smart Grid, SUComS 2010, Korea
 
