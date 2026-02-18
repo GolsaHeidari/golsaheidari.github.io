@@ -24,10 +24,10 @@
   Issued by The International Conference on Security-Enriched Urban Computing and Smart Grid, SUComS 2010, Korea
 
 
-- <strong>First Rank Among The Graduates of Master’s Degree in Computer Engineering</strong>
+- <strong>First Rank Among Master’s Graduates in Computer Engineering</strong>
 
   Najafabad Azad University
 
 
-- <strong>Top 10 Rank in the Master's Global Entrance Exam</strong>
+- <strong>Top 10 Rank in the National Master’s Entrance Examination</strong>
 
