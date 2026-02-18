@@ -1,30 +1,23 @@
 
 - <strong>The Best Practitioner Paper Award</strong>
 
-Issued by The 25th International Conference on Theory and Practice of Digital Libraries, TPDL'21 · Sep 2021
+  Issued by The 25th International Conference on Theory and Practice of Digital Libraries, TPDL'21 · Sep 2021
 
-Associated with Leibniz Universität Hannover. 
+  Associated with Leibniz Universität Hannover. 
 <a href="images/best_paper_award.pdf" target="_blank">
     [Certificate]
   </a>
 
-I appreciate Sören Auer and Markus Stocker for their guidance and supervision.
+  I appreciate Sören Auer and Markus Stocker for their guidance and supervision.
 
+- <strong>Best Lecturer</strong>
 
-<p>
-  
-</p>
-
+  Associated with Shahinshahr Azad University
 
 
 - <strong>Best Lecturer</strong>
 
-Associated with Shahinshahr Azad University
-
-
-- <strong>Best Lecturer</strong>
-
-Associated with Bonian Higher Education Institute
+  Associated with Bonian Higher Education Institute
 
 
 - <strong>The Best Paper award</strong>
@@ -34,7 +27,7 @@ Associated with Bonian Higher Education Institute
 
 - <strong>First Rank Among The Graduates of Master’s Degree in Computer Engineering</strong>
 
-Associated with Najafabad Azad University
+  Associated with Najafabad Azad University
 
 
 - <strong>Top 10 Rank in the Master's Global Entrance Exam</strong>
