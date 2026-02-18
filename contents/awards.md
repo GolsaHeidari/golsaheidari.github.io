@@ -28,7 +28,8 @@ Associated with Bonian Higher Education Institute
 
 
 - <strong>The Best Paper award</strong>
-Issued by The International Conference on Security-Enriched Urban Computing and Smart Grid, SUComS 2010, Korea
+
+  Issued by The International Conference on Security-Enriched Urban Computing and Smart Grid, SUComS 2010, Korea
 
 
 - <strong>First Rank Among The Graduates of Master’s Degree in Computer Engineering</strong>
