@@ -3,12 +3,11 @@
 
   Issued by The 25th International Conference on Theory and Practice of Digital Libraries, TPDL'21 · Sep 2021
 
-  Associated with Leibniz Universität Hannover. 
-<a href="images/best_paper_award.pdf" target="_blank">
+  Associated with Leibniz Universität Hannover. <a href="images/best_paper_award.pdf" target="_blank">
     [Certificate]
   </a>
 
-  I appreciate Sören Auer and Markus Stocker for their guidance and supervision.
+    I appreciate Sören Auer and Markus Stocker for their guidance and supervision.
 
 - <strong>Best Lecturer</strong>
 
