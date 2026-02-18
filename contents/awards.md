@@ -9,12 +9,12 @@
 
     I appreciate Sören Auer and Markus Stocker for their guidance and supervision.
 
-- <strong>Best Lecturer</strong>
+- <strong>The Best Lecturer</strong>
 
   Associated with Shahinshahr Azad University
 
 
-- <strong>Best Lecturer</strong>
+- <strong>The Best Lecturer</strong>
 
   Associated with Bonian Higher Education Institute
 
@@ -24,7 +24,7 @@
   Issued by The International Conference on Security-Enriched Urban Computing and Smart Grid, SUComS 2010, Korea
 
 
-- <strong>First Rank Among The Graduates of Master’s Degree in Computer Engineering</strong>
+- <strong>The First Rank Among The Graduates of Master’s Degree in Computer Engineering</strong>
 
   Associated with Najafabad Azad University
 
