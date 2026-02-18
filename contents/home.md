@@ -29,6 +29,6 @@ Knowledge Graphs; Semantic Technologies; Information Retrieval
   <!-- Email -->
   <a href="mailto:golsa.heidari@gmail.com" target="_blank" style="margin-right: 10px; color: inherit; text-decoration: none;">
     <i class="fas fa-envelope" style="font-size: 24px;"></i>
-    golsa [dot] heidary [at] gmail[dot] com
+     golsa [dot] heidary [at] gmail [dot] com
   </a>
 </p>
