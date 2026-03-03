@@ -6,7 +6,7 @@
 
 - <strong>Leveraging a Federation of Knowledge Graphs to Improve Faceted Search in Digital Libraries.</strong> Proceedings of the 25th International Conference on Theory and Practice of Digital Libraries, TPDL'21 · Sep 13, 2021. [[Paper]](https://www.springerprofessional.de/en/leveraging-a-federation-of-knowledge-graphs-to-improve-faceted-s/19637202)
 
-- <strong>Demonstration of Faceted Search on Scholarly Knowledge Graphs.</strong> Proceedings of the 30th The Web Conference 2021, WWW '21 · Apr 19, 2021. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3442442.3458605)
+- <strong>Demonstration of Faceted Search on Scholarly Knowledge Graphs.</strong> Proceedings of the 30th The Web Conference 2021, WWW '21 · Apr 19, 2021. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3442442.3458605) [[YouTube]](https://www.youtube.com/watch?v=tfUGnCv2LGk&t=2s)
 
 - <strong>Using Brain-Computer Interfaces System for Quality of Life.</strong> 46th National and 15th International Conference of the Indian Academy of Applied Psychology  · Feb 6, 2011
 
