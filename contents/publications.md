@@ -1,6 +1,6 @@
 <div style="max-width: 900px; text-align: justify; line-height: 1.6;">
   
-- <strong> Enhancing Information Retrieval in Digital Libraries Through Unit Harmonisation in Scholarly Knowledge Graphs</strong>. Proceedings of the 27th International Conference on Asian Digital Libraries, ICADL 2025, Metro Manila, Philippines, December 3-5, 2025 · Dec 3, 2025. [[Paper]](https://arxiv.org/abs/2512.06395)
+- <strong>Enhancing Information Retrieval in Digital Libraries Through Unit Harmonisation in Scholarly Knowledge Graphs</strong>. Proceedings of the 27th International Conference on Asian Digital Libraries, ICADL 2025, Metro Manila, Philippines, December 3-5, 2025 · Dec 3, 2025. <a href="https://arxiv.org/abs/2512.06395" target="_blank" rel="noopener noreferrer">[Paper]</a>
 
 - <strong>Lifting Data Produced in Systematic Reviews in Scholarly Knowledge Graphs and Advancing Information Retrieval.</strong> ISWS 2023 · Jun 11, 2023. [[Paper]](https://www.researchgate.net/publication/400478675_Lifting_Data_Produced_in_Systematic_Reviews_in_Scholarly_Knowledge_Graphs_and_Advancing_Information_Retrieval) 
 
