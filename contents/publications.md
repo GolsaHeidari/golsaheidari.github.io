@@ -10,8 +10,6 @@
 <a href="https://dl.acm.org/doi/abs/10.1145/3442442.3458605" target="_blank" rel="noopener noreferrer">[Paper]</a> 
 <a href="https://www.youtube.com/watch?v=tfUGnCv2LGk&t=2s" target="_blank" rel="noopener noreferrer">[YouTube]</a>
 
-- <strong>Using Brain-Computer Interfaces System for Quality of Life.</strong> 46th National and 15th International Conference of the Indian Academy of Applied Psychology · Feb 6, 2011. 
-
 - <strong>A Three Phase Semantic Web Matchmaker.</strong> International Journal Of Smart Home · Jan 1, 2010. 
 <a href="https://www.researchgate.net/publication/288569535_A_three_phase_semantic_web_matchmaker" target="_blank" rel="noopener noreferrer">[Paper]</a>
   
@@ -21,6 +19,8 @@
   
 - <strong>How to Discover a Semantic Web Service by Knowing Its Functionality Parameters.</strong> 2nd International Conference on Software Technology and Engineering, USA. 
 <a href="https://ieeexplore.ieee.org/document/5608824" target="_blank" rel="noopener noreferrer">[Paper]</a>
+
+- <strong>Using Brain-Computer Interfaces System for Quality of Life.</strong> 46th National and 15th International Conference of the Indian Academy of Applied Psychology · Feb 6, 2011. 
 
   </div>
 
