@@ -1,10 +1,10 @@
 <div style="max-width: 900px; text-align: justify; line-height: 1.6;">
   
-- <strong>Enhancing Information Retrieval in Digital Libraries Through Unit Harmonisation in Scholarly Knowledge Graphs</strong>. Proceedings of the 27th International Conference on Asian Digital Libraries, ICADL 2025, Metro Manila, Philippines, December 3-5, 2025 · Dec 3, 2025. <a href="https://arxiv.org/abs/2512.06395" target="_blank" rel="noopener noreferrer">[Paper]</a>
+- <strong>Enhancing Information Retrieval in Digital Libraries Through Unit Harmonisation in Scholarly Knowledge Graphs</strong>. Proceedings of the 27th International Conference on Asian Digital Libraries, ICADL 2025, Metro Manila, Philippines, December 3-5, 2025. <a href="https://arxiv.org/abs/2512.06395" target="_blank" rel="noopener noreferrer">[Paper]</a>
 
 - <strong>Lifting Data Produced in Systematic Reviews in Scholarly Knowledge Graphs and Advancing Information Retrieval.</strong> ISWS 2023 · Jun 11, 2023. <a href="https://www.researchgate.net/publication/400478675_Lifting_Data_Produced_in_Systematic_Reviews_in_Scholarly_Knowledge_Graphs_and_Advancing_Information_Retrieval" target="_blank" rel="noopener noreferrer">[Paper]</a> 
 
-- <strong>Leveraging a Federation of Knowledge Graphs to Improve Faceted Search in Digital Libraries.</strong> Proceedings of the 25th International Conference on Theory and Practice of Digital Libraries, TPDL'21 · Sep 13, 2021. <a href="https://www.springerprofessional.de/en/leveraging-a-federation-of-knowledge-graphs-to-improve-faceted-s/19637202" target="_blank" rel="noopener noreferrer">[Paper]</a>
+- <strong>Leveraging a Federation of Knowledge Graphs to Improve Faceted Search in Digital Libraries.</strong> Proceedings of the 25th International Conference on Theory and Practice of Digital Libraries, TPDL'21 · Sep 13, 2021. <a href="https://link.springer.com/chapter/10.1007/978-3-030-86324-1_18" target="_blank" rel="noopener noreferrer">[Paper]</a>
 
 - <strong>Demonstration of Faceted Search on Scholarly Knowledge Graphs.</strong> Proceedings of the 30th The Web Conference 2021, WWW '21 · Apr 19, 2021. 
 <a href="https://dl.acm.org/doi/abs/10.1145/3442442.3458605" target="_blank" rel="noopener noreferrer">[Paper]</a> 
